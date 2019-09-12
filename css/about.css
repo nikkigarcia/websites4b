@@ -1,0 +1,43 @@
+header{
+    background-color:aqua;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 200px;
+    text-shadow: 5px 5px white;
+    margin: 0px;
+}
+/* Start Main */
+.ocean{
+    background-image: url(../img/ocean.jpg);
+    height: 800px;
+    width: 100%;
+    image-rendering: optimizeQuality;
+}
+.words{
+    font-family: 'Chilanka', cursive;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: justify;
+    padding: 20px;
+}
+/* End Main */
+/* Start Footer */
+.section{
+    width: 33%;
+    display: inline-block;
+    margin-top: 5px;
+    text-align: center;
+}
+h3{
+    margin: 0px;
+    color: white;
+    font-family: 'Chilanka', cursive;
+}
+.center{
+    text-align: center;
+}
+
+/* End Footer */

@@ -1,0 +1,113 @@
+/* font-family: 'Chilanka', cursive;
+font-family: 'Anton', sans-serif; */
+body{
+    margin: 0px;
+}
+/* Start Nav */
+.nav-bar{
+    background-color:blue;
+    height: 120px;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top:40px;
+    left: 40px;
+}
+li{
+    color: orange;
+    list-style-type: none;
+    font-size: 24px;
+    float: right;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid orange;
+    border-radius: 20px;
+}
+li:hover{
+    background-color: black;
+}
+.fccf{
+    font-size: 16px;
+    color: orange;
+    margin-left: 36px;
+}
+/* End Nav */
+.hero{
+    height: 300px;
+    background-image: url(http://www.saltwatersmarts.com/wp-content/uploads/2013/06/setup-saltwater-aquarium_page.jpg);
+    width: 100%;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    color: orange;
+    text-shadow: 3px 3px black;
+    margin: 0px;  
+    text-align: center;
+    font-size: 80px;
+    padding: 40px;
+}
+main{
+    height: 700px;
+    background-color: aqua;
+}
+footer{
+    height: 120px;
+    background-color: black;
+}
+.orange{
+    color: orange;
+}
+.tank{
+    height:280px;
+    width: 100%;
+}
+.product{
+    height: 200px;
+    width: 200px;
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
+    display:inline-block;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    
+}
+a:hover{
+    background-color: black;
+}
+/* footer */
+.white{
+    color: white;
+}
+.copyright{
+    margin: 0px;
+}
+/* end footer */
+p {
+    display: block;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h2{
+    font-family: 'Anton', sans-serif;  
+}
+.social{
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+i{
+    color: orange;
+    height: 50px;
+    width: 50px;
+} 

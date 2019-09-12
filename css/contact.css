@@ -1,0 +1,52 @@
+.map{
+  /* height: 900px; */
+  width: 48%;
+  display: inline-block; 
+}
+.contact-form{
+    /* height: 900px; */
+    width: 48%;
+    display: inline-block;  
+}
+main{
+    height: 900px;
+    width: 100%;
+}
+.center{
+    text-align: center;
+}
+.form{
+    height: 800px;
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.section{
+    width: 33%;
+    display: inline-block;
+    margin-top: 5px;
+    text-align: center;
+}
+h3{
+    margin: 0px;
+    color: white;
+    font-family: 'Chilanka', cursive;
+}
+.info{
+    font-family: 'Chilanka', cursive;
+    font-size: 36px; 
+    padding-bottom: 30px;
+}
+.fas{
+    color: blue;
+}
+.inline{
+    display: inline-block;
+}
+.email, .phone{
+    font-family: 'Chilanka', cursive;
+    font-weight: bolder;
+    font-size: 30px;
+    padding: 30px;
+     
+}
